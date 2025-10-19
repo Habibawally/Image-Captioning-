@@ -33,10 +33,6 @@ Automatically generate accurate and descriptive captions for images.
 - Text is tokenized and padded.
 - Each word is converted into a numerical vector via an **Embedding Layer**.
 
-### 🔹 (Optional) Attention Mechanism
-- Helps the model focus on specific regions of the image while generating each word.
-
----
 
 ## 📁 Dataset & Preprocessing
 You can use datasets such as:
